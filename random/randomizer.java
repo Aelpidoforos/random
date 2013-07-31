@@ -20,6 +20,7 @@ public class Randomizer {
 			System.out.println(num[i]);
 			print ("Tipota!")
 			print (Koula me akous);;
+			print ("Den me akous?")
 		}
 
 	}
