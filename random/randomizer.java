@@ -19,6 +19,7 @@ public class Randomizer {
 		for (int i = 0; i < num.length; i++) {
 			System.out.println(num[i]);
 			print ("Tipota!")
+			print (Koula me akous);;
 		}
 
 	}
