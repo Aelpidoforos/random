@@ -18,9 +18,9 @@ public class Randomizer {
 
 		for (int i = 0; i < num.length; i++) {
 			System.out.println(num[i]);
-			print ("Tipota!"); //Ena semicolon edo
+			print ("Tipota!"); 
 			print (Koula me akous);;
-			print ("Den me akous?"); //Kai allo ena semicolon edo
+			print ("Den me akous?"); 
 		}
 
 	}
